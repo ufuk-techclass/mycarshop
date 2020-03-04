@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mycarshop/static/css/main.d1b05096.chunk.css",
+    "main.js": "/mycarshop/static/js/main.3633286b.chunk.js",
+    "main.js.map": "/mycarshop/static/js/main.3633286b.chunk.js.map",
+    "runtime-main.js": "/mycarshop/static/js/runtime-main.cf966399.js",
+    "runtime-main.js.map": "/mycarshop/static/js/runtime-main.cf966399.js.map",
+    "static/css/2.11f871ab.chunk.css": "/mycarshop/static/css/2.11f871ab.chunk.css",
+    "static/js/2.9a375442.chunk.js": "/mycarshop/static/js/2.9a375442.chunk.js",
+    "static/js/2.9a375442.chunk.js.map": "/mycarshop/static/js/2.9a375442.chunk.js.map",
+    "index.html": "/mycarshop/index.html",
+    "precache-manifest.1f5b7c38df13b37f5c9f1f998831ef42.js": "/mycarshop/precache-manifest.1f5b7c38df13b37f5c9f1f998831ef42.js",
+    "service-worker.js": "/mycarshop/service-worker.js",
+    "static/css/2.11f871ab.chunk.css.map": "/mycarshop/static/css/2.11f871ab.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/mycarshop/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.9a375442.chunk.js.LICENSE.txt": "/mycarshop/static/js/2.9a375442.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf966399.js",
+    "static/css/2.11f871ab.chunk.css",
+    "static/js/2.9a375442.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.3633286b.chunk.js"
+  ]
+}
