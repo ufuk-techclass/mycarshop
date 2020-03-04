@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "84da48519672cac1c20dd60e435419dd",
+    "revision": "91dba93f6b209848942f59de03777776",
     "url": "/mycarshop/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mycarshop/static/css/2.11f871ab.chunk.css"
   },
   {
-    "revision": "1845b6b84522638174f5",
+    "revision": "c6b4c10d7b7cf98e2553",
     "url": "/mycarshop/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mycarshop/static/js/2.9a375442.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1845b6b84522638174f5",
-    "url": "/mycarshop/static/js/main.3633286b.chunk.js"
+    "revision": "c6b4c10d7b7cf98e2553",
+    "url": "/mycarshop/static/js/main.1ee2fd27.chunk.js"
   },
   {
     "revision": "965dab7d022431f3253f",
